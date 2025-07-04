@@ -26,7 +26,8 @@ A Model Context Protocol (MCP) server that lets you manipulate Word documents wi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/EiceblueCloud/spire.doc-mcp-server.git
+cd spire-xls-mcp-server
 cd spire-doc-mcp-server
 ```
 
